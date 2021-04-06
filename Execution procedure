@@ -1,0 +1,10 @@
+Zoom and Web Browser essentials: 
+
+Change the default end meet key button to w
+Always allow to direct login without prompt from the browser
+Allow to connect to audio automatically
+
+Python Script:
+
+Do not modify anything in the main.py python script 
+Add your meeting id s and the duration(start time and end time) in the data.py script 
